@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "7YP/vCdWbiVlhTNSKSW7rtuCIO5fCcQbp8bJOz1xb3o=",
+  "Source": "SupplierDemo",
+  "BasePath": "_content/SupplierDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SupplierDemo\\wwwroot",
+      "Source": "SupplierDemo",
+      "ContentRoot": "C:\\Users\\TGSUser162\\source\\repos\\DemoSupplier\\SupplierDemo\\wwwroot\\",
+      "BasePath": "_content/SupplierDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
